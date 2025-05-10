@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\FFC-GaimiumDev\\BeginnerCourse\\Source\\BeginnerCourse\\BeginnerCourse.Build.cs",
+		"F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\FFC-GaimiumDev\\BeginnerCourse\\Source\\BeginnerCourse.Target.cs",
+		"F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\FFC-GaimiumDev\\BeginnerCourse\\Source\\BeginnerCourseEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

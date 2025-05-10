@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\start-up (technexplc)\\game-development(unrealengine)\\unrealengine_course_project2025\\ffc-gaimiumdev\\beginnercourse\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\beginnercourse\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\start-up (technexplc)\\game-development(unrealengine)\\unrealengine_course_project2025\\ffc-gaimiumdev\\beginnercourse\\intermediate\\build\\win64\\x64\\beginnercourseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\start-up (technexplc)\\game-development(unrealengine)\\unrealengine_course_project2025\\ffc-gaimiumdev\\beginnercourse\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\beginnercourse\\definitions.beginnercourse.h",
+            "c:\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

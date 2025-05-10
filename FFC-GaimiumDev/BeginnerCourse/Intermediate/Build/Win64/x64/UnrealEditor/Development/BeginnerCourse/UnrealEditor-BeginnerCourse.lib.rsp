@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BeginnerCourse.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\FFC-GaimiumDev\BeginnerCourse\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\FFC-GaimiumDev\BeginnerCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\BeginnerCourse\BeginnerCourse.cpp.obj"
+"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\FFC-GaimiumDev\BeginnerCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\BeginnerCourse\PerModuleInline.gen.cpp.obj"
+"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\FFC-GaimiumDev\BeginnerCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\BeginnerCourse\Default.rc2.res"
+/OUT:"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\FFC-GaimiumDev\BeginnerCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\BeginnerCourse\UnrealEditor-BeginnerCourse.lib"
