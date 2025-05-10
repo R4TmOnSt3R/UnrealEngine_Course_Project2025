@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SquidPuzzle",
+			"Path": "..\\Source\\SquidPuzzle.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SquidPuzzleEditor",
+			"Path": "..\\Source\\SquidPuzzleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

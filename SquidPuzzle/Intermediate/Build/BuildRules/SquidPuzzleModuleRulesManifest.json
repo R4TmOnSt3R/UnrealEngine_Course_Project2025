@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\Source\\SquidPuzzle\\SquidPuzzle.Build.cs",
+		"F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\Source\\SquidPuzzle.Target.cs",
+		"F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\Source\\SquidPuzzleEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

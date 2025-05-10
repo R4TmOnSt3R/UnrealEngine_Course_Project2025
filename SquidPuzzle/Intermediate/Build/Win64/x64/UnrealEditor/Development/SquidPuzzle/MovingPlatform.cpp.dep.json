@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\start-up (technexplc)\\game-development(unrealengine)\\unrealengine_course_project2025\\squidpuzzle\\source\\squidpuzzle\\movingplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\start-up (technexplc)\\game-development(unrealengine)\\unrealengine_course_project2025\\squidpuzzle\\intermediate\\build\\win64\\x64\\squidpuzzleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "f:\\start-up (technexplc)\\game-development(unrealengine)\\unrealengine_course_project2025\\squidpuzzle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\squidpuzzle\\definitions.squidpuzzle.h",
+            "f:\\start-up (technexplc)\\game-development(unrealengine)\\unrealengine_course_project2025\\squidpuzzle\\source\\squidpuzzle\\movingplatform.h",
+            "f:\\start-up (technexplc)\\game-development(unrealengine)\\unrealengine_course_project2025\\squidpuzzle\\intermediate\\build\\win64\\unrealeditor\\inc\\squidpuzzle\\uht\\movingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

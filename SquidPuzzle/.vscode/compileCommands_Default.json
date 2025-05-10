@@ -1,0 +1,42 @@
+[
+	{
+		"file": "F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\Source\\SquidPuzzle\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\.vscode\\compileCommands_Default\\SquidPuzzle.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\Source\\SquidPuzzle\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\.vscode\\compileCommands_Default\\SquidPuzzle.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\Source\\SquidPuzzle\\SquidPuzzle.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\.vscode\\compileCommands_Default\\SquidPuzzle.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\Source\\SquidPuzzle\\SquidPuzzle.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\.vscode\\compileCommands_Default\\SquidPuzzle.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\Source\\SquidPuzzle\\SquidPuzzle.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\START-UP (TECHNEXPLC)\\GAME-DEVELOPMENT(UNREALENGINE)\\UnrealEngine_Course_Project2025\\SquidPuzzle\\.vscode\\compileCommands_Default\\SquidPuzzle.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	}
+]

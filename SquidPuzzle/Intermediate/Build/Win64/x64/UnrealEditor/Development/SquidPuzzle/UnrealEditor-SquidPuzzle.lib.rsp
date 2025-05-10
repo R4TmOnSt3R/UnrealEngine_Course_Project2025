@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SquidPuzzle.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\SquidPuzzle\Intermediate\Build\Win64\x64\SquidPuzzleEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\SquidPuzzle\Intermediate\Build\Win64\x64\UnrealEditor\Development\SquidPuzzle\MovingPlatform.gen.cpp.obj"
+"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\SquidPuzzle\Intermediate\Build\Win64\x64\UnrealEditor\Development\SquidPuzzle\SquidPuzzle.init.gen.cpp.obj"
+"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\SquidPuzzle\Intermediate\Build\Win64\x64\UnrealEditor\Development\SquidPuzzle\MovingPlatform.cpp.obj"
+"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\SquidPuzzle\Intermediate\Build\Win64\x64\UnrealEditor\Development\SquidPuzzle\SquidPuzzle.cpp.obj"
+"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\SquidPuzzle\Intermediate\Build\Win64\x64\UnrealEditor\Development\SquidPuzzle\PerModuleInline.gen.cpp.obj"
+"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\SquidPuzzle\Intermediate\Build\Win64\x64\UnrealEditor\Development\SquidPuzzle\Default.rc2.res"
+/OUT:"F:\START-UP (TECHNEXPLC)\GAME-DEVELOPMENT(UNREALENGINE)\UnrealEngine_Course_Project2025\SquidPuzzle\Intermediate\Build\Win64\x64\UnrealEditor\Development\SquidPuzzle\UnrealEditor-SquidPuzzle.lib"
