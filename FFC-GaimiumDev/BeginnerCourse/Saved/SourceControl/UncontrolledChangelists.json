@@ -155,7 +155,11 @@
 				"F:/START-UP (TECHNEXPLC)/GAME-DEVELOPMENT(UNREALENGINE)/UnrealEngine_Course_Project2025/FFC-GaimiumDev/BeginnerCourse/Content/Main.umap",
 				"F:/START-UP (TECHNEXPLC)/GAME-DEVELOPMENT(UNREALENGINE)/UnrealEngine_Course_Project2025/FFC-GaimiumDev/BeginnerCourse/Content/Structs/MyStruct.uasset",
 				"F:/START-UP (TECHNEXPLC)/GAME-DEVELOPMENT(UNREALENGINE)/UnrealEngine_Course_Project2025/FFC-GaimiumDev/BeginnerCourse/Content/Enums/MyEnum.uasset",
-				"F:/START-UP (TECHNEXPLC)/GAME-DEVELOPMENT(UNREALENGINE)/UnrealEngine_Course_Project2025/FFC-GaimiumDev/BeginnerCourse/Content/NewBlueprint.uasset"
+				"F:/START-UP (TECHNEXPLC)/GAME-DEVELOPMENT(UNREALENGINE)/UnrealEngine_Course_Project2025/FFC-GaimiumDev/BeginnerCourse/Content/NewBlueprint.uasset",
+				"F:/START-UP (TECHNEXPLC)/GAME-DEVELOPMENT(UNREALENGINE)/UnrealEngine_Course_Project2025/FFC-GaimiumDev/BeginnerCourse/Content/Blueprints/Vector2.uasset",
+				"F:/START-UP (TECHNEXPLC)/GAME-DEVELOPMENT(UNREALENGINE)/UnrealEngine_Course_Project2025/FFC-GaimiumDev/BeginnerCourse/Content/Blueprints/MyActor.uasset",
+				"F:/START-UP (TECHNEXPLC)/GAME-DEVELOPMENT(UNREALENGINE)/UnrealEngine_Course_Project2025/FFC-GaimiumDev/BeginnerCourse/Content/Blueprints/PickupActor.uasset",
+				"F:/START-UP (TECHNEXPLC)/GAME-DEVELOPMENT(UNREALENGINE)/UnrealEngine_Course_Project2025/FFC-GaimiumDev/BeginnerCourse/Content/Blueprints/BP_Pickup.uasset"
 			]
 		}
 	]
